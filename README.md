@@ -10,3 +10,4 @@ Included Plugins:
 6. font-awesome // http://fontawesome.io/icons/
 7. owl carousel // https://owlcarousel2.github.io/OwlCarousel2/
 8. bootstrap select // https://github.com/silviomoreto/bootstrap-select
+9. sharer.js // https://github.com/ellisonleao/sharer.js/
